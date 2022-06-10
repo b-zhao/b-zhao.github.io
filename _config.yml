@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Bo Zhao"
+title_home               : "About"
 title_separator          : "-"
 name                     : &name "Bo Zhao"
 description              : &description "PhD student at UC San Diego"
