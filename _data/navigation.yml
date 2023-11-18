@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "Updates"
-    url: /updates/
+    url: /updates
 
   - title: "CV"
     url: https://b-zhao.github.io/files/Bo_Zhao_CV.pdf
