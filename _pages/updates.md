@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /updates.html
+permalink: /updates
 sitemap: false
 author_profile: true
 ---
