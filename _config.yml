@@ -84,10 +84,10 @@ author:
   name             : "Bo Zhao"
   avatar           : "profile.png"
   bio              : "PhD student at UC San Diego"
-  location         : "La Jolla, California"
+  location         : "San Diego, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ZCCrFoIAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=ZCCrFoIAAAAJ&hl=en"
   email            : "bozhao@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -208,6 +208,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _updates
+  - scope:
+      path: ""
+      type: updates
     values:
       layout: single
       author_profile: true
