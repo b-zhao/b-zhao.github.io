@@ -25,7 +25,7 @@ Updates
 
 2022-09 Our paper [Symmetry Teleportation for Accelerated Optimization](https://arxiv.org/abs/2205.10637) was accepted by NeurIPS 2022.
 
-2022-06 Interning this summer at MIT-IBM Watson AI Lab.
+2022-06 Interning this summer at the MIT-IBM Watson AI Lab.
 
 2022-05 Our paper [LIMO: Latent Inceptionism for Targeted Molecule Generation](https://proceedings.mlr.press/v162/eckmann22a) was accepted by ICML 2022.
 
