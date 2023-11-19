@@ -7,7 +7,7 @@ author_profile: true
 
 Updates
 ======
-2023-11 I will attend the [Mathematics and Machine Learning](https://mathml2023.caltech.edu) conference and [NeurIPS](https://neurips.cc) in December. Looking forward to learning and discussions!
+2023-11 I will be at the [Mathematics and Machine Learning](https://mathml2023.caltech.edu) conference and [NeurIPS](https://neurips.cc) in December. Looking forward to meeting old and new friends!
 
 2023-10 Two extended abstracts were accepted by NeurIPS workshops: [Improving Convergence and Generalization Using Parameter Symmetries](https://arxiv.org/abs/2305.13404) at [NeurReps](https://www.neurreps.org) and Understanding Mode Connectivity via Parameter Space Symmetry at [UniReps](https://unireps.org).
 
