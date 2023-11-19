@@ -15,7 +15,7 @@ Updates
 
 2023-07 Talk on [Symmetries, flat minima, and the conserved quantities of gradient flow](https://arxiv.org/abs/2210.17216) at [Boston Computation Club](https://bstn.cc). [[Video](https://www.youtube.com/watch?v=6tgJLV06MfE)]
 
-2023-06 Honored to be selected to receive the Deepmind Fellowship.
+2023-06 Honored to be selected to receive the DeepMind Fellowship.
 
 2023-03 Presented [Symmetry Teleportation](https://arxiv.org/abs/2205.10637) at the [CSE 35th Anniversary celebration](https://cse35.ucsd.edu/home) poster session.
 
