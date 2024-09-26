@@ -7,6 +7,8 @@ author_profile: true
 
 Updates
 ======
+2024-08 Serving as the Student Program and Funding Chair of the [WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation) at NeurIPS 2024.
+
 2024-06 Interning this summer at NTT Research in Cambridge, MA.
 
 2024-04 Contributed talk on [Symmetries, flat minima, and the conserved quantities of gradient flow](https://arxiv.org/abs/2210.17216) at [SOCAMS](https://www.socams.org) (Southern California Applied Mathematics Symposium).
