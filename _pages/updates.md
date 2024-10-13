@@ -7,6 +7,13 @@ author_profile: true
 
 Updates
 ======
+2024-10 Two extended abstracts accepted by NeurIPS workshops: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+[Symmetry Discovery in Neural Network Parameter Spaces
+](https://openreview.net/forum?id=qPR9a9IotY) (at [UniReps](https://unireps.org/2024/)) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+Emergence of Hierarchical Emotion Representations in Large Language Models (at [SciForDL](https://scienceofdlworkshop.github.io)).
+
 2024-08 Serving as the Student Program and Funding Chair of the [WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation) at NeurIPS 2024.
 
 2024-06 Interning this summer at NTT Research in Cambridge, MA.
