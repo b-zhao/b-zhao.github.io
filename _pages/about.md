@@ -1,8 +1,11 @@
 ---
 title: ""
-permalink: /about
+permalink: /
 sitemap: false
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
@@ -18,7 +21,7 @@ Publications
 * **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
 <u>Bo Zhao</u>, Maya Okawa, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
 In submission.  <br>
-Workshop version to appear at SciForDL 2024. 
+Workshop version to appear at SciForDL 2024. [[Manuscript]](https://b-zhao.github.io/files/paper_AI_emotion.pdf)
 
 * **Finding Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
