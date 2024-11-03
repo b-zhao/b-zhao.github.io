@@ -21,7 +21,9 @@ Publications
 * **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
 <u>Bo Zhao</u>, Maya Okawa, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
 In submission.  <br>
-Workshop version to appear at SciForDL 2024. [[Manuscript]](https://b-zhao.github.io/files/paper_AI_emotion.pdf)
+Workshop version to appear at SciForDL 2024. <br>
+[[pdf]](https://b-zhao.github.io/files/paper_AI_emotion.pdf)
+[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
 
 * **Finding Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
@@ -119,7 +121,7 @@ Academic Service
 
 * Workshop Chair Assistant, NeurIPS 2024
 
-* Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024--)
+* Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024)
 
 
 Experience
