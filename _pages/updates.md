@@ -7,12 +7,24 @@ author_profile: true
 
 Updates
 ======
-2024-10 Two extended abstracts accepted by NeurIPS workshops: <br>
+2024-12 I will be attending NeurIPS in person this year! Happy to learn about symmetry, LLMs, and everything.
+We will present two extended abstracts at the workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
 [Symmetry Discovery in Neural Network Parameter Spaces
-](https://openreview.net/forum?id=qPR9a9IotY) (at [UniReps](https://unireps.org/2024/)) <br>
+](https://openreview.net/forum?id=qPR9a9IotY) at [UniReps](https://unireps.org/2024/) <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
-Emergence of Hierarchical Emotion Representations in Large Language Models (at [SciForDL](https://scienceofdlworkshop.github.io)).
+[Emergence of Hierarchical Emotion Representations in Large Language Models](https://openreview.net/forum?id=vgXUoCrHmp) at [SciForDL](https://scienceofdlworkshop.github.io).
+
+2024-12 We are organizing a workshop on weight space learning at ICLR 2025! More details coming soon. [weight-space-learning.github.io](https://weight-space-learning.github.io/)
+
+2024-11 Honored to be selected as an NVIDIA Graduate Fellowship Finalist.
+
+<!--2024-10 Two extended abstracts accepted by NeurIPS workshops: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+[Symmetry Discovery in Neural Network Parameter Spaces
+](https://openreview.net/forum?id=qPR9a9IotY) at [UniReps](https://unireps.org/2024/) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+[Emergence of Hierarchical Emotion Representations in Large Language Models](https://openreview.net/forum?id=vgXUoCrHmp) at [SciForDL](https://scienceofdlworkshop.github.io).-->
 
 2024-08 Serving as the Student Program and Funding Chair of the [WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation) at NeurIPS 2024.
 
@@ -42,7 +54,7 @@ Emergence of Hierarchical Emotion Representations in Large Language Models (at [
 
 2023-01 Our paper [Symmetries, flat minima, and the conserved quantities of gradient flow](https://arxiv.org/abs/2210.17216) was accepted by ICLR 2023.
 
-2022-12 Presented [Symmetries, flat minima, and the conserved quantities of gradient flow](https://arxiv.org/abs/2210.17216) at NeurIPS workshops [NeurReps](https://nips.cc/virtual/2022/workshop/49975) and [WiML](https://sites.google.com/view/wiml2022/home).
+<!--2022-12 Presented [Symmetries, flat minima, and the conserved quantities of gradient flow](https://arxiv.org/abs/2210.17216) at NeurIPS workshops [NeurReps](https://nips.cc/virtual/2022/workshop/49975) and [WiML](https://sites.google.com/view/wiml2022/home).-->
 
 2022-11 Contributed talk on [Symmetry Teleportation](https://arxiv.org/abs/2205.10637) at [Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)](https://deepmath-conference.com)
 

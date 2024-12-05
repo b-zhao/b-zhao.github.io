@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
+I am a fourth year computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
 
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape.
 
@@ -19,10 +19,9 @@ Publications
 
 
 * **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
-<u>Bo Zhao</u>, Maya Okawa, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
+<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
 In submission.  <br>
-Workshop version to appear at SciForDL 2024. <br>
-[[pdf]](https://b-zhao.github.io/files/paper_AI_emotion.pdf)
+[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) to appear at SciForDL 2024. <br>
 [[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
 
 * **Finding Symmetry in Neural Network Parameter Spaces** <br>
@@ -117,9 +116,11 @@ Teaching
 
 Academic Service
 ======
+* Organizer, Workshop on Neural Network Weights as a New Data Modality at ICLR 2025
+
 * Student Program and Funding Chair, WiML Workshop at NeurIPS 2024
 
-* Workshop Chair Assistant, NeurIPS 2024
+<!--* Workshop Chair Assistant, NeurIPS 2024-->
 
 * Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024)
 
@@ -133,9 +134,11 @@ Experience
 
 Honors and Awards
 ======
-* **Qualcomm Innovation Fellowship finalist**, 2024
+* NVIDIA Graduate Fellowship finalist, 2025
 
-* **DeepMind PhD Fellowship**, 2023
+* Qualcomm Innovation Fellowship finalist, 2024
+
+* DeepMind PhD Fellowship, 2023
 
 
 Education
