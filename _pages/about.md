@@ -13,7 +13,7 @@ I am a fourth year computer science PhD student at the [University of California
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape.
 
 
-##Publications
+## Publications
 ======
 <h3 style="color:gray;"> Preprints </h3>
 
@@ -102,7 +102,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 * [Boston Computation Club](https://bstn.cc), July 2023 -->
 
 
-##Teaching
+## Teaching
 ======
 * Teaching Assistant, CS 4641 Machine Learning, Georgia Tech (Fall 2020)
 
@@ -113,7 +113,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 * Course Assistant, CS 225 Data Structures, UIUC (Fall 2017, Spring 2018, Fall 2018)
 
 
-##Academic Service
+## Academic Service
 ======
 * Organizer, [Weight Space Learning Workshop](https://weight-space-learning.github.io/) at ICLR 2025
 
@@ -124,14 +124,14 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 * Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024)
 
 
-##Experience
+## Experience
 ======
 * NTT Research, Research Intern, 2024.6--2024.9
 
 * IBM, AI Intern, 2022.6--2022.9
 
 
-##Honors and Awards
+## Honors and Awards
 ======
 * NVIDIA Graduate Fellowship finalist, 2025
 
@@ -140,7 +140,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 * DeepMind PhD Fellowship, 2023
 
 
-##Education
+## Education
 ======
 * Ph.D. in Computer Science, University of California San Diego, 2021--present
 
