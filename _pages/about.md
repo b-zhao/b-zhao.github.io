@@ -14,7 +14,7 @@ I am interested in mathematical structures in deep learning. Currently, I am stu
 
 
 ## Publications
-======
+
 <h3 style="color:gray;"> Preprints </h3>
 
 * **Finding Symmetry in Neural Network Parameter Spaces** <br>
@@ -103,7 +103,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 
 ## Teaching
-======
+
 * Teaching Assistant, CS 4641 Machine Learning, Georgia Tech (Fall 2020)
 
 
@@ -114,7 +114,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 
 ## Academic Service
-======
+
 * Organizer, [Weight Space Learning Workshop](https://weight-space-learning.github.io/) at ICLR 2025
 
 * Student Program and Funding Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS 2024
@@ -125,14 +125,14 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 
 ## Experience
-======
+
 * NTT Research, Research Intern, 2024.6--2024.9
 
 * IBM, AI Intern, 2022.6--2022.9
 
 
 ## Honors and Awards
-======
+
 * NVIDIA Graduate Fellowship finalist, 2025
 
 * Qualcomm Innovation Fellowship finalist, 2024
@@ -141,7 +141,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 
 ## Education
-======
+
 * Ph.D. in Computer Science, University of California San Diego, 2021--present
 
 
