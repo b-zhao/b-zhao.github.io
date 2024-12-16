@@ -13,27 +13,26 @@ I am a fourth year computer science PhD student at the [University of California
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape.
 
 
-Publications
+##Publications
 ======
 <h3 style="color:gray;"> Preprints </h3>
-
-
-* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
-<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
-In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) to appear at SciForDL 2024. <br>
-[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
 
 * **Finding Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
 In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=qPR9a9IotY) to appear at UniReps 2024.
+[Workshop version](https://openreview.net/forum?id=qPR9a9IotY) appeared at UniReps 2024.
 
 * **Understanding Mode Connectivity via Parameter Space Symmetry** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
 <!--*Unifying Representations in Neural Models Workshop (UniReps)* at NeurIPS 2023 <br>-->
 In submission.  <br>
 [Workshop version](https://openreview.net/pdf?id=aP2a5i1iUf) appeared at UniReps 2023.
+
+* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
+<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
+In submission.  <br>
+[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) appeared at SciForDL 2024.
+[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
 
 
 <h3 style="color:gray;"> Conference </h3>
@@ -103,7 +102,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 * [Boston Computation Club](https://bstn.cc), July 2023 -->
 
 
-Teaching
+##Teaching
 ======
 * Teaching Assistant, CS 4641 Machine Learning, Georgia Tech (Fall 2020)
 
@@ -114,25 +113,25 @@ Teaching
 * Course Assistant, CS 225 Data Structures, UIUC (Fall 2017, Spring 2018, Fall 2018)
 
 
-Academic Service
+##Academic Service
 ======
-* Organizer, Workshop on Neural Network Weights as a New Data Modality at ICLR 2025
+* Organizer, [Weight Space Learning Workshop](https://weight-space-learning.github.io/) at ICLR 2025
 
-* Student Program and Funding Chair, WiML Workshop at NeurIPS 2024
+* Student Program and Funding Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS 2024
 
 <!--* Workshop Chair Assistant, NeurIPS 2024-->
 
 * Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024)
 
 
-Experience
+##Experience
 ======
-* **NTT Research**, Research Intern, 2024.6--2024.9
+* NTT Research, Research Intern, 2024.6--2024.9
 
-* **IBM**, AI Intern, 2022.6--2022.9
+* IBM, AI Intern, 2022.6--2022.9
 
 
-Honors and Awards
+##Honors and Awards
 ======
 * NVIDIA Graduate Fellowship finalist, 2025
 
@@ -141,7 +140,7 @@ Honors and Awards
 * DeepMind PhD Fellowship, 2023
 
 
-Education
+##Education
 ======
 * Ph.D. in Computer Science, University of California San Diego, 2021--present
 

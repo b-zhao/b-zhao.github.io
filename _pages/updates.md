@@ -7,6 +7,8 @@ author_profile: true
 
 Updates
 ======
+2024-12 We are organizing a workshop on weight space learning at ICLR 2025! Details on [weight-space-learning.github.io](https://weight-space-learning.github.io/)
+
 2024-12 I will be attending NeurIPS in person this year! Happy to learn about symmetry, LLMs, and everything.
 We will present two extended abstracts at the workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
@@ -15,9 +17,7 @@ We will present two extended abstracts at the workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
 [Emergence of Hierarchical Emotion Representations in Large Language Models](https://openreview.net/forum?id=vgXUoCrHmp) at [SciForDL](https://scienceofdlworkshop.github.io).
 
-2024-12 We are organizing a workshop on weight space learning at ICLR 2025! More details coming soon. [weight-space-learning.github.io](https://weight-space-learning.github.io/)
-
-2024-11 Honored to be selected as an NVIDIA Graduate Fellowship Finalist.
+2024-12 Honored to be selected as an NVIDIA Graduate Fellowship Finalist.
 
 <!--2024-10 Two extended abstracts accepted by NeurIPS workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
@@ -26,7 +26,7 @@ We will present two extended abstracts at the workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
 [Emergence of Hierarchical Emotion Representations in Large Language Models](https://openreview.net/forum?id=vgXUoCrHmp) at [SciForDL](https://scienceofdlworkshop.github.io).-->
 
-2024-08 Serving as the Student Program and Funding Chair of the [WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/call-for-participation) at NeurIPS 2024.
+2024-08 Serving as the Student Program and Funding Chair of the [WiML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS 2024.
 
 2024-06 Interning this summer at NTT Research in Cambridge, MA.
 
