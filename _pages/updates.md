@@ -38,11 +38,11 @@ We will present two extended abstracts at the workshops: <br>
 
 <!--2023-11 I will be at the [Mathematics and Machine Learning](https://mathml2023.caltech.edu) conference and [NeurIPS](https://neurips.cc) in December. Looking forward to meeting old and new friends!-->
 
-2023-10 Two extended abstracts were accepted by NeurIPS workshops: <br>
+<!--2023-10 Two extended abstracts were accepted by NeurIPS workshops: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
 [Improving Convergence and Generalization Using Parameter Symmetries](https://arxiv.org/abs/2305.13404) at [NeurReps](https://www.neurreps.org) <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
-[Understanding Mode Connectivity via Parameter Space Symmetry](https://openreview.net/pdf?id=aP2a5i1iUf) at [UniReps](https://unireps.org).
+[Understanding Mode Connectivity via Parameter Space Symmetry](https://openreview.net/pdf?id=aP2a5i1iUf) at [UniReps](https://unireps.org).-->
 
 2023-09 Our paper [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting](https://arxiv.org/abs/2306.01984) was accepted by NeurIPS 2023.
 

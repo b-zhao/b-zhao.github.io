@@ -10,32 +10,16 @@ redirect_from:
 
 I am a fourth year computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
 
-I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape.
+I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
 
 
 ## Publications
 
-<h3 style="color:gray;"> Preprints </h3>
-
-* **Finding Symmetry in Neural Network Parameter Spaces** <br>
-<u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
-In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=qPR9a9IotY) appeared at UniReps 2024.
+<h3 style="color:gray;"> Conference </h3>
 
 * **Understanding Mode Connectivity via Parameter Space Symmetry** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
-<!--*Unifying Representations in Neural Models Workshop (UniReps)* at NeurIPS 2023 <br>-->
-In submission.  <br>
-[Workshop version](https://openreview.net/pdf?id=aP2a5i1iUf) appeared at UniReps 2023.
-
-* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
-<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
-In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) appeared at SciForDL 2024.
-[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
-
-
-<h3 style="color:gray;"> Conference </h3>
+*International Conference on Machine Learning (ICML)*, 2025 <br>
 
 * **Understanding the Difficulty of Solving Cauchy Problems with PINNs** <br>
 Tao Wang, <u>Bo Zhao</u>, Sicun Gao, Rose Yu <br>
@@ -94,6 +78,26 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[paper]](https://pubs.aip.org/aip/jap/article/125/19/194102/155889/Multiple-aging-mechanisms-in-ferroelectric)
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
+<h3 style="color:gray;"> Preprints and workshops </h3>
+
+* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
+<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
+In submission.  <br>
+[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) appeared at SciForDL 2024.
+[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
+
+* **Finding Symmetry in Neural Network Parameter Spaces** <br>
+<u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
+In submission.  <br>
+[Workshop version](https://openreview.net/forum?id=qPR9a9IotY) appeared at UniReps 2024.
+
+* **Improving Learning to Optimize Using Parameter Symmetries** <br>
+Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
+*Workshop on Neural Network Weights as a New Data Modality* at ICLR 2025 <br>
+[[arXiv]](https://arxiv.org/abs/2504.15399)
+[[code]](https://github.com/Rose-STL-Lab/L2O-Symmetry)
+
+
 <!-- Upcoming talks
 ======
 Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow 
@@ -121,7 +125,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 <!--* Workshop Chair Assistant, NeurIPS 2024-->
 
-* Reviewer: ICML (2022--2024), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024)
+* Reviewer: ICML (2022--2025), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024--)
 
 
 ## Experience
