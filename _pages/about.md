@@ -20,10 +20,11 @@ I am interested in mathematical structures in deep learning. Currently, I am stu
 * **Understanding Mode Connectivity via Parameter Space Symmetry** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
 *International Conference on Machine Learning (ICML)*, 2025 <br>
+[[arXiv]](https://arxiv.org/abs/2505.23681)
 
 * **Understanding the Difficulty of Solving Cauchy Problems with PINNs** <br>
 Tao Wang, <u>Bo Zhao</u>, Sicun Gao, Rose Yu <br>
-*Proceedings of The 6th Annual Learning for Dynamics and Control Conference (L4DC)*, 2024 <br>
+*Learning for Dynamics and Control Conference (L4DC)*, 2024 <br>
 [[arXiv]](https://arxiv.org/abs/2405.02561)
 
 * **Improving Convergence and Generalization Using Parameter Symmetries** <br>
@@ -80,22 +81,26 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 
 <h3 style="color:gray;"> Preprints and workshops </h3>
 
-* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
-<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Hidenori Tanaka <br>
-In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=vgXUoCrHmp) appeared at SciForDL 2024.
-[[project page]](https://phys-ai.github.io/blog/paper/2024/10/27/Emotion-Hierarchy-LLMs.html)
-
-* **Finding Symmetry in Neural Network Parameter Spaces** <br>
-<u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
-In submission.  <br>
-[Workshop version](https://openreview.net/forum?id=qPR9a9IotY) appeared at UniReps 2024.
+* **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
+Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
+*Workshop on High-dimensional Learning Dynamics (HiLD)* at ICML 2025 <br>
+<!--[[pdf]](https://openreview.net/pdf?id=NBbuA7Ud0I)-->
 
 * **Improving Learning to Optimize Using Parameter Symmetries** <br>
 Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
 *Workshop on Neural Network Weights as a New Data Modality* at ICLR 2025 <br>
 [[arXiv]](https://arxiv.org/abs/2504.15399)
 [[code]](https://github.com/Rose-STL-Lab/L2O-Symmetry)
+
+* **Finding Symmetry in Neural Network Parameter Spaces** <br>
+<u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
+*Workshop on Unifying Representations in Neural Models (UniReps)* at NeurIPS 2024 <br>
+[[OpenReview]](https://openreview.net/forum?id=qPR9a9IotY)
+
+* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
+<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
+*Workshop on Scientific Methods for Understanding Deep Learning* at NeurIPS 2024 <br>
+[[pdf]](https://openreview.net/forum?id=vgXUoCrHmp) [[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
 
 
 <!-- Upcoming talks
@@ -125,14 +130,16 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 <!--* Workshop Chair Assistant, NeurIPS 2024-->
 
-* Reviewer: ICML (2022--2025), NeurIPS (2022--2024), ICLR (2024--2025), AISTATS (2024--2025), AAAI (2025), TMLR (2024--)
+* Reviewer: ICML (2022—2025), NeurIPS (2022—2025), ICLR (2024—2025), AISTATS (2024—2025), AAAI (2025), TMLR (2024—2025)
 
 
 ## Experience
 
-* NTT Research, Research Intern, 2024.6--2024.9
+* Capital One, Applied Research Intern, 2025.6—2025.8
 
-* IBM, AI Intern, 2022.6--2022.9
+* NTT Research, Research Intern, 2024.6—2024.9
+
+* IBM, AI Intern, 2022.6—2022.9
 
 
 ## Honors and Awards
@@ -146,13 +153,13 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 ## Education
 
-* Ph.D. in Computer Science, University of California San Diego, 2021--present
+* Ph.D. in Computer Science, University of California San Diego, 2021—present
 
 
-* M.S. in Computer Science, Georgia Institute of Technology, 2019--2021
+* M.S. in Computer Science, Georgia Institute of Technology, 2019—2021
 
 
-* B.S. in Computer Science, University of Illinois at Urbana-Champaign, 2016--2019
+* B.S. in Computer Science, University of Illinois at Urbana-Champaign, 2016—2019
 
 
-* B.S. in Physics, University of Illinois at Urbana-Champaign, 2016--2019
+* B.S. in Physics, University of Illinois at Urbana-Champaign, 2016—2019

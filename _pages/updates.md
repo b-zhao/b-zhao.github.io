@@ -7,6 +7,12 @@ author_profile: true
 
 Updates
 ======
+2025-06 Interning this summer at Capital One in New York, NY.
+
+2025-05 Our paper [Understanding Mode Connectivity via Parameter Space Symmetry](https://arxiv.org/abs/2505.23681) was accepted at ICML 2025.
+
+2025-03 New workshop paper [Improving Learning to Optimize Using Parameter Symmetries](https://arxiv.org/abs/2504.15399) to appear at the [Workshop on Neural Network Weights as a New Data Modality](https://weight-space-learning.github.io/) at ICLR 2025.
+
 2024-12 We are organizing a workshop on weight space learning at ICLR 2025! Details on [weight-space-learning.github.io](https://weight-space-learning.github.io/)
 
 2024-12 I will be attending NeurIPS in person this year! Happy to learn about symmetry, LLMs, and everything.
