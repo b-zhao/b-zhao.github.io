@@ -7,6 +7,9 @@ author_profile: true
 
 Updates
 ======
+2025-06 New survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
+
+
 2025-06 Interning this summer at Capital One in New York, NY.
 
 2025-05 Our paper [Understanding Mode Connectivity via Parameter Space Symmetry](https://arxiv.org/abs/2505.23681) was accepted at ICML 2025.

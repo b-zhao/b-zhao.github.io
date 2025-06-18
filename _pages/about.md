@@ -81,6 +81,11 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 
 <h3 style="color:gray;"> Preprints and workshops </h3>
 
+* **Symmetry in Neural Network Parameter Spaces** <br>
+<u>Bo Zhao</u>, Robin Walters, Rose Yu <br>
+*Survey paper.* 2025 <br>
+[[arXiv]](https://www.arxiv.org/abs/2506.13018)
+
 * **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
 Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
 *Workshop on High-dimensional Learning Dynamics (HiLD)* at ICML 2025 <br>
