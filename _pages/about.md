@@ -102,10 +102,11 @@ Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
 *Workshop on Unifying Representations in Neural Models (UniReps)* at NeurIPS 2024 <br>
 [[OpenReview]](https://openreview.net/forum?id=qPR9a9IotY)
 
-* **Emergence of Hierarchical Emotion Representations in Large Language Models** <br>
+* **Emergence of Hierarchical Emotion Organization in Large Language Models** <br>
 <u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
 *Workshop on Scientific Methods for Understanding Deep Learning* at NeurIPS 2024 <br>
-[[pdf]](https://openreview.net/forum?id=vgXUoCrHmp) [[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
+[[arXiv]](https://arxiv.org/abs/2507.10599)
+[[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
 
 
 <!-- Upcoming talks
@@ -129,7 +130,9 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 ## Academic Service
 
-* Organizer, [Weight Space Learning Workshop](https://weight-space-learning.github.io/) at ICLR 2025
+* Organizer, [Workshop on Unifying Representations in Neural Models (UniReps)](https://unireps.org/2025/) at NeurIPS 2025
+
+* Organizer, [Workshop on Weight Space Learning](https://weight-space-learning.github.io/) at ICLR 2025
 
 * Student Program and Funding Chair, [WiML Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home) at NeurIPS 2024
 
