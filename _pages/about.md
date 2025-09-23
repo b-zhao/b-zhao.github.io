@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
+I am a final year computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
 
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
 
@@ -79,7 +79,7 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[paper]](https://pubs.aip.org/aip/jap/article/125/19/194102/155889/Multiple-aging-mechanisms-in-ferroelectric)
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
-<h3 style="color:gray;"> Preprints and workshops </h3>
+<h3 style="color:gray;"> Preprints and recent workshops </h3>
 
 * **Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Robin Walters, Rose Yu <br>
@@ -119,6 +119,9 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 ## Teaching
 
+* Teaching Assistant, CS 291A Generative AI, UC San Diego (Fall 2025)
+
+
 * Teaching Assistant, CS 4641 Machine Learning, Georgia Tech (Fall 2020)
 
 
@@ -151,6 +154,10 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 
 ## Honors and Awards
+
+* Rising Stars in EECS, MIT and Boston University, 2025
+
+* Rising Stars in Data Science, Stanford University, 2025
 
 * NVIDIA Graduate Fellowship finalist, 2025
 

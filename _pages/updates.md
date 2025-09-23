@@ -7,8 +7,9 @@ author_profile: true
 
 Updates
 ======
-2025-06 New survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
+2025-09 Attending the [Rising Stars in EECS workshop] (https://risingstars-eecs.mit.edu) at MIT (Oct. 30-31) and the [Rising Stars in Data Science workshop](https://datascience.stanford.edu/programs/rising-stars-data-science) at Stanford (Nov. 11-12)! Grateful for the opportunities and looking forward to making new connections.
 
+2025-06 New survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
 
 2025-06 Interning this summer at Capital One in New York, NY.
 
