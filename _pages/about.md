@@ -12,6 +12,7 @@ I am a final year computer science PhD student at the [University of California,
 
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
 
+*Check out our new survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
 
 ## Publications
 
@@ -26,6 +27,7 @@ I am interested in mathematical structures in deep learning. Currently, I am stu
 Tao Wang, <u>Bo Zhao</u>, Sicun Gao, Rose Yu <br>
 *Learning for Dynamics and Control Conference (L4DC)*, 2024 <br>
 [[arXiv]](https://arxiv.org/abs/2405.02561)
+[[code]](https://github.com/taowang0/Difficulty-of-Cauchy-problem)
 
 * **Improving Convergence and Generalization Using Parameter Symmetries** <br>
 <u>Bo Zhao</u>, Robert M. Gower, Robin Walters, Rose Yu <br>
@@ -107,6 +109,11 @@ Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
 *Workshop on Scientific Methods for Understanding Deep Learning* at NeurIPS 2024 <br>
 [[arXiv]](https://arxiv.org/abs/2507.10599)
 [[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
+
+<!--* **Optimizing Reasoning Efficiency through Prompt Difficulty Prediction** <br>
+<u>Bo Zhao</u>, Berkcan Kapusuzoglu, Kartik Balasubramaniam, Sambit Sahu, Supriyo Chakraborty, Genta Indra Winata <br>
+*Workshop on Efficient Reasoning* at NeurIPS 2025 <br>
+[[OpenReview]](https://openreview.net/forum?id=vAFTyX6kbF)-->
 
 
 <!-- Upcoming talks
