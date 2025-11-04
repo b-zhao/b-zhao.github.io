@@ -9,13 +9,15 @@ Updates
 ======
 <!--2025-09 Our paper [Optimizing Reasoning Efficiency through Prompt Difficulty Prediction](https://openreview.net/forum?id=vAFTyX6kbF) was accepted at the [Workshop on Efficient Reasoning](https://efficient-reasoning.github.io) at NeurIPS 2025.-->
 
+2025-11 New survey paper (to appear in TMLR): [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
+
 2025-10 Attending the [Rising Stars in EECS workshop](https://risingstars-eecs.mit.edu) at MIT (Oct. 30-31) and the [Rising Stars in Data Science workshop](https://datascience.stanford.edu/programs/rising-stars-data-science) at Stanford (Nov. 11-12)! Grateful for the opportunities and looking forward to new connections.
 
 2025-08 We are organizing the 3rd [UniReps workshop](https://unireps.org/2025/) at NeurIPS 2025. Join us in San Diego this December!
 
-2025-06 New survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
-
 2025-06 Interning this summer at Capital One in New York, NY.
+
+2025-06 Talk on [symmetry and mode connectivity](https://arxiv.org/abs/2505.23681) at [ELLIS Reading Group on Mathematics of Deep Learning](https://ellis-rg-math-dl.github.io/meetings/2025/06/24/llm_topology_symmetries.html). 
 
 2025-05 Our paper [Understanding Mode Connectivity via Parameter Space Symmetry](https://arxiv.org/abs/2505.23681) was accepted at ICML 2025.
 

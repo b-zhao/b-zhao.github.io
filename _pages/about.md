@@ -12,7 +12,7 @@ I am a final year computer science PhD student at the [University of California,
 
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
 
-*Check out our new survey paper: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
+*Check out our new survey paper (to appear in TMLR): [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
 
 ## Publications
 
@@ -74,6 +74,12 @@ James Fox, <u>Bo Zhao</u>, Beatriz Gonzalez Del Rio, Sivasankaran Rajamanickam, 
 
 <h3 style="color:gray;"> Journal </h3>
 
+* **Symmetry in Neural Network Parameter Spaces** <br>
+<u>Bo Zhao</u>, Robin Walters, Rose Yu <br>
+*To appear in Transactions on Machine Learning Research
+(TMLR)*, 2025 <br>
+[[arXiv]](https://www.arxiv.org/abs/2506.13018)
+
 * **Multiple Aging Mechanisms in Ferroelectric Deuterated Potassium Dihydrogen Phosphate** <br>
 Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Mohammed A. Sheikh, Eugene V Colla, and M. B. Weissman. <br>
 *Journal of Applied Physics 125*, 194102, 2019
@@ -82,11 +88,6 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
 <h3 style="color:gray;"> Preprints and recent workshops </h3>
-
-* **Symmetry in Neural Network Parameter Spaces** <br>
-<u>Bo Zhao</u>, Robin Walters, Rose Yu <br>
-*Survey paper.* 2025 <br>
-[[arXiv]](https://www.arxiv.org/abs/2506.13018)
 
 * **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
 Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
@@ -175,7 +176,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 ## Education
 
-* Ph.D. in Computer Science, University of California San Diego, 2021—present
+* Ph.D. in Computer Science, University of California San Diego, 2021—2026 (expected)
 
 
 * M.S. in Computer Science, Georgia Institute of Technology, 2019—2021
