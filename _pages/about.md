@@ -12,7 +12,7 @@ I am a final year computer science PhD student at the [University of California,
 
 I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
 
-*Check out our new survey paper (to appear in TMLR): [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
+*Check out our new survey paper (published in TMLR): [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
 
 ## Publications
 
@@ -76,8 +76,8 @@ James Fox, <u>Bo Zhao</u>, Beatriz Gonzalez Del Rio, Sivasankaran Rajamanickam, 
 
 * **Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Robin Walters, Rose Yu <br>
-*To appear in Transactions on Machine Learning Research
-(TMLR)*, 2025 <br>
+*Transactions on Machine Learning Research
+(TMLR)*, 2026 <br>
 [[arXiv]](https://www.arxiv.org/abs/2506.13018)
 
 * **Multiple Aging Mechanisms in Ferroelectric Deuterated Potassium Dihydrogen Phosphate** <br>
@@ -88,6 +88,11 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
 <h3 style="color:gray;"> Preprints and recent workshops </h3>
+
+* **Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success** <br>
+Luca Zhou, <u>Bo Zhao</u>, Rose Yu, Emanuele Rodolà <br>
+ArXiv preprint arXiv:2601.22285, 2026 <br>
+[[arXiv]](https://arxiv.org/abs/2601.22285)
 
 * **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
 Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
@@ -105,17 +110,16 @@ Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
 *Workshop on Unifying Representations in Neural Models (UniReps)* at NeurIPS 2024 <br>
 [[OpenReview]](https://openreview.net/forum?id=qPR9a9IotY)
 
+* **Optimizing Reasoning Efficiency through Prompt Difficulty Prediction** <br>
+<u>Bo Zhao</u>, Berkcan Kapusuzoglu, Kartik Balasubramaniam, Sambit Sahu, Supriyo Chakraborty, Genta Indra Winata <br>
+*Workshop on Efficient Reasoning* at NeurIPS 2025 <br>
+[[arXiv]](https://arxiv.org/abs/2511.03808)
+
 * **Emergence of Hierarchical Emotion Organization in Large Language Models** <br>
 <u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
 *Workshop on Scientific Methods for Understanding Deep Learning* at NeurIPS 2024 <br>
 [[arXiv]](https://arxiv.org/abs/2507.10599)
 [[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
-
-<!--* **Optimizing Reasoning Efficiency through Prompt Difficulty Prediction** <br>
-<u>Bo Zhao</u>, Berkcan Kapusuzoglu, Kartik Balasubramaniam, Sambit Sahu, Supriyo Chakraborty, Genta Indra Winata <br>
-*Workshop on Efficient Reasoning* at NeurIPS 2025 <br>
-[[OpenReview]](https://openreview.net/forum?id=vAFTyX6kbF)-->
-
 
 <!-- Upcoming talks
 ======
@@ -149,7 +153,7 @@ Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow
 
 <!--* Workshop Chair Assistant, NeurIPS 2024-->
 
-* Reviewer: ICML (2022—2025), NeurIPS (2022—2025), ICLR (2024—2025), AISTATS (2024—2025), AAAI (2025), TMLR (2024—2025)
+* Reviewer: ICML (2022—2026), NeurIPS (2022—2025), ICLR (2024—2026), AISTATS (2024—2026), AAAI (2025—2026), TMLR (2024—2026)
 
 
 ## Experience
