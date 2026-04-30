@@ -20,6 +20,9 @@ main:
 
   - title: "CV"
     url: https://b-zhao.github.io/files/Bo_Zhao_CV.pdf
+
+  - title: "Blog"
+    url: https://b-zhao.github.io/blog/
     
   # - title: "Guide"
   #   url: /markdown/
