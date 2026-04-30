@@ -101,10 +101,9 @@ ArXiv preprint 2601.22285 <br>
 
 * **Emergence of Hierarchical Emotion Organization in Large Language Models** <br>
 <u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
-<!--*Workshop on Scientific Methods for Understanding Deep Learning* at NeurIPS 2024 <br>-->
 ArXiv preprint 2507.10599 <br>
 [[arXiv]](https://arxiv.org/abs/2507.10599)
-[[blog]](https://phys-ai.github.io/blog/hierarchical-emotion-in-llm)
+[[blog]](https://b-zhao.github.io/blog/hierarchical-emotion-in-llm)
 
 * **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
 Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
