@@ -18,6 +18,17 @@ I am interested in mathematical structures in deep learning. Currently, I am stu
 
 <h3 style="color:gray;"> Conference </h3>
 
+* **Emergence of Hierarchical Emotion Organization in Large Language Models** <br>
+<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
+*International Conference on Machine Learning (ICML)*, 2026 <br>
+[[arXiv]](https://arxiv.org/abs/2507.10599)
+[[blog]](https://b-zhao.github.io/blog/hierarchical-emotion-in-llm)
+
+* **Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success** <br>
+Luca Zhou, <u>Bo Zhao</u>, Rose Yu, Emanuele Rodolà <br>
+*International Conference on Machine Learning (ICML)*, 2026 <br>
+[[arXiv]](https://arxiv.org/abs/2601.22285)
+
 * **Understanding Mode Connectivity via Parameter Space Symmetry** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
 *International Conference on Machine Learning (ICML)*, 2025 <br>
@@ -89,41 +100,30 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 
 <h3 style="color:gray;"> Selected preprints and workshops </h3>
 
-<!--* **A Survey of Weight Space Learning: Understanding, Representation, and Generation** <br>
+* **A Survey of Weight Space Learning: Understanding, Representation, and Generation** <br>
 Xiaolong Han, Zehong Wang, <u>Bo Zhao</u>, Binchi Zhang, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri <br>
 ArXiv preprint arXiv: 2603.10090, 2026 <br>
-[[arXiv]](https://arxiv.org/abs/2603.10090)-->
+[[arXiv]](https://arxiv.org/abs/2603.10090)
 
-* **Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success** <br>
-Luca Zhou, <u>Bo Zhao</u>, Rose Yu, Emanuele Rodolà <br>
-ArXiv preprint 2601.22285 <br>
-[[arXiv]](https://arxiv.org/abs/2601.22285)
-
-* **Emergence of Hierarchical Emotion Organization in Large Language Models** <br>
-<u>Bo Zhao</u>\*, Maya Okawa\*, Eric J. Bigelow, Rose Yu, Tomer Ullman, Ekdeep Singh Lubana, Hidenori Tanaka <br>
-ArXiv preprint 2507.10599 <br>
-[[arXiv]](https://arxiv.org/abs/2507.10599)
-[[blog]](https://b-zhao.github.io/blog/hierarchical-emotion-in-llm)
+* **Improving Learning to Optimize Using Parameter Symmetries** <br>
+Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
+*Workshop on Neural Network Weights as a New Data Modality* at ICLR 2025 <br>
+[[arXiv]](https://arxiv.org/abs/2504.15399)
+[[code]](https://github.com/Rose-STL-Lab/L2O-Symmetry)
 
 * **Data-Free Transformer Quantization Using Parameter-Space Symmetry** <br>
 Lucas Laird, <u>Bo Zhao</u>, Rose Yu, Robin Walters <br>
 *Workshop on High-dimensional Learning Dynamics (HiLD)* at ICML 2025 <br>
-
-<!--* **Improving Learning to Optimize Using Parameter Symmetries** <br>
-Guy Zamir, Aryan Dokania, <u>Bo Zhao</u>, Rose Yu <br>
-*Workshop on Neural Network Weights as a New Data Modality* at ICLR 2025 <br>
-[[arXiv]](https://arxiv.org/abs/2504.15399)
-[[code]](https://github.com/Rose-STL-Lab/L2O-Symmetry)-->
 
 <!--* **Finding Symmetry in Neural Network Parameter Spaces** <br>
 <u>Bo Zhao</u>, Nima Dehmamy, Robin Walters, Rose Yu <br>
 *Workshop on Unifying Representations in Neural Models (UniReps)* at NeurIPS 2024 <br>
 [[OpenReview]](https://openreview.net/forum?id=qPR9a9IotY)-->
 
-<!--* **Optimizing Reasoning Efficiency through Prompt Difficulty Prediction** <br>
+* **Optimizing Reasoning Efficiency through Prompt Difficulty Prediction** <br>
 <u>Bo Zhao</u>, Berkcan Kapusuzoglu, Kartik Balasubramaniam, Sambit Sahu, Supriyo Chakraborty, Genta Indra Winata <br>
 *Workshop on Efficient Reasoning* at NeurIPS 2025 <br>
-[[arXiv]](https://arxiv.org/abs/2511.03808)-->
+[[arXiv]](https://arxiv.org/abs/2511.03808)
 
 
 <!-- Upcoming talks
