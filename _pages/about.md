@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year computer science PhD student at the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my Master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and Bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
+I will join the [Geometric Machine Learning Group](https://weber.seas.harvard.edu) at Harvard as a postdoc in June 2026. I received my PhD in computer science from the [University of California, San Diego](https://www.ucsd.edu), advised by [Rose Yu](https://roseyu.com). I received my master's degree in computer science from [Georgia Institute of Technology](https://www.gatech.edu), and bachelor degrees in computer science and physics from the [University of Illinois at Urbana-Champaign](https://illinois.edu). 
 
-I am interested in mathematical structures in deep learning. Currently, I am studying symmetries in the parameter space of neural networks, as well as their impact on optimization, generalization, and the loss landscape. 
+I am interested in mathematical structures in deep learning. My research focuses on symmetries in neural networks, as well as their impact on optimization, loss landscapes, deep learning theory, and applications. For an overview, see our TMLR survey paper, [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).
 
-*Check out our new survey paper (published in TMLR): [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018).*
 
 ## Publications
 
