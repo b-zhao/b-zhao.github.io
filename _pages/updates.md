@@ -32,6 +32,7 @@ Updates
 
 <details>
 <summary><span style="color: gray;">Older updates</span></summary>
+<div markdown="block">
 
 2025-03 New workshop paper [Improving Learning to Optimize Using Parameter Symmetries](https://arxiv.org/abs/2504.15399) to appear at the [Workshop on Neural Network Weights as a New Data Modality](https://weight-space-learning.github.io/) at ICLR 2025.
 
@@ -96,4 +97,5 @@ We will present two extended abstracts at the workshops: <br>
 
 2021-09 Joined the [Spatiotemporal Machine Learning Lab](https://roseyu.com) and started PhD at [UC San Diego](https://ucsd.edu)!
 
+</div>
 </details>
