@@ -97,11 +97,20 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[paper]](https://pubs.aip.org/aip/jap/article/125/19/194102/155889/Multiple-aging-mechanisms-in-ferroelectric)
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
+
+
+<h3 style="color:gray;"> Thesis </h3>
+
+* **A Symmetry in Neural Network Parameter Spaces.** <br>
+<u>Bo Zhao</u><br>
+*Ph.D. Thesis*<br>
+[[pdf]](https://b-zhao.github.io/files/Dissertation.pdf)
+
 <h3 style="color:gray;"> Selected preprints and workshops </h3>
 
 * **A Survey of Weight Space Learning: Understanding, Representation, and Generation** <br>
 Xiaolong Han, Zehong Wang, <u>Bo Zhao</u>, Binchi Zhang, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri <br>
-ArXiv preprint arXiv: 2603.10090, 2026 <br>
+*ArXiv preprint arXiv: 2603.10090*, 2026 <br>
 [[arXiv]](https://arxiv.org/abs/2603.10090)
 
 * **Improving Learning to Optimize Using Parameter Symmetries** <br>
