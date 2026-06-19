@@ -98,13 +98,13 @@ Gregory A. Fields, Samuel F. Cieszynski, <u>Bo Zhao</u>, Kidan A. Tadesse,  Moha
 [[pdf]](https://b-zhao.github.io/files/paper_DKDP.pdf)
 
 
+<h3 style="color:gray;"> Ph.D. Thesis </h3>
 
-<h3 style="color:gray;"> Thesis </h3>
-
-* **A Symmetry in Neural Network Parameter Spaces.** <br>
+* **Symmetry in Neural Networks** <br>
 <u>Bo Zhao</u><br>
-*Ph.D. Thesis*<br>
+*University of California San Diego*, 2026<br>
 [[pdf]](https://b-zhao.github.io/files/Dissertation.pdf)
+
 
 <h3 style="color:gray;"> Selected preprints and workshops </h3>
 
