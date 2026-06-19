@@ -7,11 +7,20 @@ author_profile: true
 
 Updates
 ======
-<!--2025-09 Our paper [Optimizing Reasoning Efficiency through Prompt Difficulty Prediction](https://openreview.net/forum?id=vAFTyX6kbF) was accepted at the [Workshop on Efficient Reasoning](https://efficient-reasoning.github.io) at NeurIPS 2025.-->
+
+2026-06 Joined the [Geometric Machine Learning Group](https://weber.seas.harvard.edu) at Harvard University as a postdoc!
+
+2026-05 Two papers accepted at ICML 2026: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+[Emergence of Hierarchical Emotion Organization in Large Language Models](https://arxiv.org/abs/2507.10599) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • 
+[Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](https://arxiv.org/abs/2601.22285)
 
 2026-01 New survey paper in TMLR: [Symmetry in Neural Network Parameter Spaces](https://www.arxiv.org/abs/2506.13018)
 
 2025-10 Attending the [Rising Stars in EECS workshop](https://risingstars-eecs.mit.edu) at MIT (Oct. 30-31) and the [Rising Stars in Data Science workshop](https://datascience.stanford.edu/programs/rising-stars-data-science) at Stanford (Nov. 11-12)! Grateful for the opportunities and looking forward to new connections.
+
+<!--2025-09 Our paper [Optimizing Reasoning Efficiency through Prompt Difficulty Prediction](https://openreview.net/forum?id=vAFTyX6kbF) was accepted at the [Workshop on Efficient Reasoning](https://efficient-reasoning.github.io) at NeurIPS 2025.-->
 
 2025-08 We are organizing the 3rd [UniReps workshop](https://unireps.org/2025/) at NeurIPS 2025. Join us in San Diego this December!
 
@@ -20,6 +29,9 @@ Updates
 2025-06 Talk on [symmetry and mode connectivity](https://arxiv.org/abs/2505.23681) at [ELLIS Reading Group on Mathematics of Deep Learning](https://ellis-rg-math-dl.github.io/meetings/2025/06/24/llm_topology_symmetries.html). 
 
 2025-05 Our paper [Understanding Mode Connectivity via Parameter Space Symmetry](https://arxiv.org/abs/2505.23681) was accepted at ICML 2025.
+
+<details>
+<summary><span style="color: gray;">Older updates</span></summary>
 
 2025-03 New workshop paper [Improving Learning to Optimize Using Parameter Symmetries](https://arxiv.org/abs/2504.15399) to appear at the [Workshop on Neural Network Weights as a New Data Modality](https://weight-space-learning.github.io/) at ICLR 2025.
 
@@ -83,3 +95,5 @@ We will present two extended abstracts at the workshops: <br>
 2022-04 Our paper [Concentric Spherical Neural Network for 3D Representation Learning](https://ieeexplore.ieee.org/abstract/document/9892358) was accepted by IJCNN 2022.
 
 2021-09 Joined the [Spatiotemporal Machine Learning Lab](https://roseyu.com) and started PhD at [UC San Diego](https://ucsd.edu)!
+
+</details>
